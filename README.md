@@ -1,4 +1,4 @@
- HR Attrition Dashboard
+# HR Attrition Dashboard
 
 This project analyzes employee attrition data using **Power BI**.  
 It provides insights on department-wise attrition, education fields, age groups, gender distribution, and job satisfaction.
